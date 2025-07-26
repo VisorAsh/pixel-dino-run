@@ -2,22 +2,9 @@
 
 A captivating endless runner game featuring a pixelated dinosaur and interesting, dynamically scrolling backgrounds.
 
-## Folder Structure
-
-pixel-dino-run/
-├── PROMPT.md
-├── README.md
-├── assets/
-│   ├── game_play_screen1.png
-│   └── game_play_screen2.png
-└── public/
-    ├── index.html
-    └── sketch.js
-
 ## 📷 Game screens
 
 ![Home](assets/game_play_screen1.png)
-![Gameplay](assets/game_play_screen2.png)
 
 ## How to Play
 
@@ -56,23 +43,8 @@ Enjoy the game!
 
 Un jeu de course sans fin captivant avec un dinosaure pixélisé et des arrière-plans dynamiques et défilants.
 
-## Structure des dossiers
-
-
-pixel-dino-run/
-├── PROMPT.md
-├── README.md
-├── assets/
-│   ├── game_play_screen1.png
-│   └── game_play_screen2.png
-└── public/
-    ├── index.html
-    └── sketch.js
-
-## 📷 Game screens
-
-![Acceuil](assets/game_play_screen1.png)
-![Gameplay en cours](assets/game_play_screen2.png)
+# Image du jeu
+![Gameplay](assets/game_play_screen2.png)
 
 ## Comment jouer
 
