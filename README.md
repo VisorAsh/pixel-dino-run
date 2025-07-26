@@ -14,7 +14,10 @@ pixel-dino-run/
     ├── index.html
     └── sketch.js
 
+## 📷 Game screens
 
+![Home](assets/game_play_screen1.png)
+![Gameplay](assets/game_play_screen2.png)
 
 ## How to Play
 
@@ -66,6 +69,10 @@ pixel-dino-run/
     ├── index.html
     └── sketch.js
 
+## 📷 Game screens
+
+![Acceuil](assets/game_play_screen1.png)
+![Gameplay en cours](assets/game_play_screen2.png)
 
 ## Comment jouer
 
