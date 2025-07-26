@@ -4,18 +4,23 @@ A captivating endless runner game featuring a pixelated dinosaur and interesting
 
 ## Folder Structure
 
-
 pixel-dino-run/
 ├── PROMPT.md
 ├── README.md
-└── public
-├── index.html
-└── sketch.js
+├── assets/
+│   ├── game_play_screen1.png
+│   └── game_play_screen2.png
+└── public/
+    ├── index.html
+    └── sketch.js
+
 
 
 ## How to Play
 
 1.  **Save the files:**
+    * Go on [Game Link](https://pixel-dino-run-by-hishaaam.web.app) or
+
     * Create a folder named `pixel-dino-run`.
     * Inside `pixel-dino-run`, create a subfolder named `public`.
     * Save the `index.html` file into the `public` folder.
@@ -54,14 +59,19 @@ Un jeu de course sans fin captivant avec un dinosaure pixélisé et des arrière
 pixel-dino-run/
 ├── PROMPT.md
 ├── README.md
-└── public
-├── index.html
-└── sketch.js
+├── assets/
+│   ├── game_play_screen1.png
+│   └── game_play_screen2.png
+└── public/
+    ├── index.html
+    └── sketch.js
 
 
 ## Comment jouer
 
 1.  **Enregistrez les fichiers :**
+    * Clicker sur le lien suivant : [Game Link](https://pixel-dino-run-by-hishaaam.web.app) or
+
     * Créez un dossier nommé `pixel-dino-run`.
     * À l'intérieur de `pixel-dino-run`, créez un sous-dossier nommé `public`.
     * Enregistrez le fichier `index.html` dans le dossier `public`.
